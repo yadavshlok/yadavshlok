@@ -1,11 +1,11 @@
 
 ###
-<h2 align="center">Hey, I’m Shlok Yadav</h2>
+<h1 align="center">Hey, I’m Shlok Yadav</h1>
 
 ###
 <h4 align="center">Turning ideas into apps that feel effortless.</h4>
 
-<img align="right" height="206" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="195" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 <ul>
@@ -18,49 +18,49 @@
 
 ###
 
-<h3 align="left">Tech Stack</h3>
+<h2 align="left">Tech Stack</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/flutter/02569B" height="40" alt="flutter logo"  />
+  <img src="https://cdn.simpleicons.org/flutter/02569B" height="42" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/dart/0175C2" height="40" alt="dart logo"  />
+  <img src="https://cdn.simpleicons.org/dart/0175C2" height="42" alt="dart logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase logo"  />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="42" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="42" alt="androidstudio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="42" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="42" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="42" alt="express logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="42" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="42" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="42" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="42" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="42" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo"  />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="42" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="42" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="42" alt="javascript logo"  />
 </div>
 
 ###
 
-<h3 align="left">Connect here :)</h3>
+<h2 align="left">Connect here :)</h2>
 
 ###
 
@@ -92,7 +92,7 @@
 
 <br clear="both">
 
-<h5 align="left">“I like my apps how I like my edits — clean and on beat.” ⭐</h5>
+<h4 align="left">“I like my apps how I like my edits — clean and on beat.” ⭐</h4>
 
 ###
 
