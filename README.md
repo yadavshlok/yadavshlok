@@ -12,7 +12,7 @@
   <li>🔭 <b>Currently working on:</b> Flutter apps</li>
   <li>🌱 <b>Learning:</b> Node.js and backend integration</li>
   <li>🎨 <b>Pursuing:</b> Video editing & creative projects</li>
-  <li>📫 <b>Contact:</b> yadavshlok37@gmail.com</li>
+  <li>📫 <b>Contact:</b> <a href="mailto:yadavshlok37@gmail.com">yadavshlok37@gmail.com</a></li>
   <li>📄 <b>Portfolio:</b> <a href="https://yadavshlok.github.io/portfolio-v2/" target="_blank">Click here</a></li>
 </ul>
 
@@ -65,13 +65,14 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/shlokyadav37" target="_blank">
+  <a href="https://www.linkedin.com/in/shlokyadav37" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="yadavshlok37@gmail.com" target="_blank">
+  <a href="mailto:yadavshlok37@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
 
 ###
 
