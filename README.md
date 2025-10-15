@@ -9,8 +9,19 @@
 <img align="right" height="206" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
+<h2 align="center">Hey, I’m Shlok Yadav</h2>
 
-<h6 align="left">🔭 I’m currently working on Flutter apps<br><br> 🌱 I’m currently learning Node.js and backend integration<br><br> 🎨 Editing videos and exploring creative projects<br><br> 📫 How to reach me yadavshlok37@gmail.com<br><br> 📄 Know about my portfolio https://yadavshlok.github.io/portfolio-v2/</h6>
+<h4 align="center">Turning ideas into apps that feel effortless.</h4>
+
+<img align="right" height="206" src="https://i.imgflip.com/65efzo.gif"  />
+
+<ul>
+  <li>🔭 <b>Currently working on:</b> Flutter apps</li>
+  <li>🌱 <b>Learning:</b> Node.js and backend integration</li>
+  <li>🎨 <b>Pursuing:</b> Video editing & creative projects</li>
+  <li>📫 <b>Contact:</b> yadavshlok37@gmail.com</li>
+  <li>📄 <b>Portfolio:</b> <a href="https://yadavshlok.github.io/portfolio-v2/" target="_blank">Click here</a></li>
+</ul>
 
 ###
 
