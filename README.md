@@ -1,5 +1,4 @@
 
-###
 <h1 align="center">Hey, I’m Shlok Yadav</h1>
 
 ###
@@ -7,7 +6,6 @@
 
 <img align="right" height="195" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
 <ul>
   <li>🔭 <b>Currently working on:</b> Flutter apps</li>
   <li>🌱 <b>Learning:</b> Node.js and backend integration</li>
