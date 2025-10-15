@@ -2,21 +2,21 @@
 
 <h4 align="center">Turning ideas into apps that feel effortless.</h4>
 
-<img align="right" height="195" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="190" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 <div align="left" style="margin-top: 30px; margin-bottom: 18px; line-height: 2.1;">
   <ul>
-    <li>🔭 <b>Currently working on:</b> Flutter apps</li>
-    <li>🌱 <b>Learning:</b> Node.js and backend integration</li>
-    <li>🎨 <b>Pursuing:</b> Video editing &amp; creative projects</li>
-    <li>📫 <b>Contact:</b> <a href="mailto:yadavshlok37@gmail.com">yadavshlok37@gmail.com</a></li>
+    <li>🔭 <b>Currently working on:</b> Flutter apps</li><br>
+    <li>🌱 <b>Learning:</b> Node.js and backend integration</li><br>
+    <li>🎨 <b>Pursuing:</b> Video editing &amp; creative projects</li><br>
+    <li>📫 <b>Contact:</b> <a href="mailto:yadavshlok37@gmail.com">yadavshlok37@gmail.com</a></li><br>
     <li>📄 <b>Portfolio:</b> <a href="https://yadavshlok.github.io/portfolio-v2/" target="_blank">Click here</a></li>
   </ul>
 </div>
 
 ###
-<h2 align="left" style="margin-top: 32px; margin-bottom: 10px;"><b>Tech Stack</b></h2>
+<h3 align="left" style="margin-top: 32px; margin-bottom: 10px;"><b>Tech Stack</b></h3>
 
 <div align="left" style="margin-bottom: 24px;">
   <img src="https://cdn.simpleicons.org/flutter/02569B" height="42" alt="flutter logo" />
