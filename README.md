@@ -7,11 +7,11 @@
 ###
 <div align="left" style="margin-top: 30px; margin-bottom: 18px; line-height: 2.1;">
   <ul>
-    <li>🔭 <b>Currently working on:</b> Flutter apps</li><br>
-    <li>🌱 <b>Learning:</b> Node.js and backend integration</li><br>
-    <li>🎨 <b>Pursuing:</b> Video editing &amp; creative projects</li><br>
-    <li>📫 <b>Contact:</b> <a href="mailto:yadavshlok37@gmail.com">yadavshlok37@gmail.com</a></li><br>
-    <li>📄 <b>Portfolio:</b> <a href="https://yadavshlok.github.io/portfolio-v2/" target="_blank">Click here</a></li>
+    <li>🔭 I'm currently working on <b>Flutter</b> apps</li><br>
+    <li>🌱 Learning <b>Node.js</b> and <b>backend integration</b></li><br>
+    <li>🎨 <b>Editing</b> videos and exploring creative projects</b></li><br>
+    <li>📫 <b>Contact me -</b> <a href="mailto:yadavshlok37@gmail.com">yadavshlok37@gmail.com</a></li><br>
+    <li>📄 <b>More about me -</b> <a href="https://yadavshlok.github.io/portfolio-v2/" target="_blank">Click here</a></li>
   </ul>
 </div>
 
